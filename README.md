@@ -695,7 +695,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [JarvisRiser](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/JarvisRiser.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Liuzhichao99](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Liuzhichao99.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [t4351536-ai](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/t4351536-ai.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Leya-LI](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Leya-LI.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
