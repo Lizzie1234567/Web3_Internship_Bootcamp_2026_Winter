@@ -663,7 +663,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [qccs4nfkbb-dot](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/qccs4nfkbb-dot.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Aurorale](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Aurorale.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Pass-All](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Pass-All.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [meritalu0426-eng](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/meritalu0426-eng.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
