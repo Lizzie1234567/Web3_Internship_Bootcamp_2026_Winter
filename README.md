@@ -677,7 +677,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [RENPAIPAI](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/RENPAIPAI.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Damon7770](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Damon7770.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [zhangbobo123](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/zhangbobo123.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [cuicui6402](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/cuicui6402.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
