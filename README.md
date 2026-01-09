@@ -761,7 +761,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [Laren123-ops](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Laren123-ops.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Ricky-7-Yan](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Ricky-7-Yan.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [jingyiechozuo](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/jingyiechozuo.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [starshine266](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/starshine266.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
