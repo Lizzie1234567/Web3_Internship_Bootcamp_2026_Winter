@@ -720,7 +720,11 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [hjx516615156-hue](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/hjx516615156-hue.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [karlrtin](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/karlrtin.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [DarrickLi](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/DarrickLi.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Vantone](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Vantone.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [lilexi-bot](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/lilexi-bot.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [15725493520](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/15725493520.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
