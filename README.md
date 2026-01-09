@@ -741,7 +741,10 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [MaiMcdull](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/MaiMcdull.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [JiwaiGY](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/JiwaiGY.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Dead0Fire](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Dead0Fire.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [hildaissweet](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/hildaissweet.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [noxenys](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/noxenys.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
