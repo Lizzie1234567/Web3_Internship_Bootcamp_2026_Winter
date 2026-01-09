@@ -666,7 +666,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [meritalu0426-eng](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/meritalu0426-eng.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [b44gkmnyrg-eng](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/b44gkmnyrg-eng.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [liuyuedayueyue-star](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/liuyuedayueyue-star.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [cxydjjzl](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/cxydjjzl.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
