@@ -640,7 +640,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [hanschurer](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/hanschurer.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [huhuening](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/huhuening.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [evachen010726-netizen](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/evachen010726-netizen.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [lgard8](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/lgard8.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
