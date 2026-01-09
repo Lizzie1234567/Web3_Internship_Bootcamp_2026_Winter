@@ -729,7 +729,10 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [WangEffie33-dev](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/WangEffie33-dev.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Y1fe1-Yang](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Y1fe1-Yang.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [1124906008-alt](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/1124906008-alt.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [a28689604](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/a28689604.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [LeeDior200](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/LeeDior200.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
