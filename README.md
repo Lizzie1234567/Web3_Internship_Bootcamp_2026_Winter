@@ -696,7 +696,11 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [Liuzhichao99](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Liuzhichao99.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [t4351536-ai](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/t4351536-ai.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Leya-LI](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Leya-LI.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Arissira7](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Arissira7.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [carlotaziqilun](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/carlotaziqilun.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Jack-max-code](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Jack-max-code.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
