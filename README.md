@@ -1007,7 +1007,10 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [love4399game](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/love4399game.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [leela-1239](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/leela-1239.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [SalingerC](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/SalingerC.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [flash122u](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/flash122u.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [marktubu3](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/marktubu3.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
