@@ -877,7 +877,11 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [zouw0174-code](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/zouw0174-code.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [jiangxiyue19](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/jiangxiyue19.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [jk416](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/jk416.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [dameng2024](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/dameng2024.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [430zhouyuhang](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/430zhouyuhang.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [zylbeyondlimits](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/zylbeyondlimits.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
