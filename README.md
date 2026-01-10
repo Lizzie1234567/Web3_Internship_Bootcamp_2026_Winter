@@ -1000,7 +1000,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [rosieluox2223-spec](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/rosieluox2223-spec.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [aRongNiceFish](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/aRongNiceFish.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [1216sunw-alt](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/1216sunw-alt.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [GIN123456GIN](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/GIN123456GIN.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
