@@ -945,7 +945,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [Louise158](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Louise158.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Sand-Dream](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Sand-Dream.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [rshen5520-ally](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/rshen5520-ally.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [xinyu226](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/xinyu226.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
