@@ -1,0 +1,48 @@
+---
+timezone: UTC+8
+---
+
+# lvxun1703-byte
+
+**GitHub ID:** lvxun1703-byte
+
+**Telegram:** 
+
+## Self-introduction
+
+# 👋 Hi, I'm Hassan | Founder & Explorer
+
+### 🚀 Deciphering Civilizations, Scaling Trust through Web3
+
+I am the founder of **Transvivid**, where we integrate **TCM (Traditional Chinese Medicine)** with **AI and Blockchain** to build trust-less health infrastructure for the Global South (Middle East, Africa, and LATAM).
+
+- 🌍 **Currently based in**: Middle East / Africa (On-site exploration)
+- 🧪 **Web3 Focus**: Learning Smart Contract Architecture, Decentralized Governance (DAOs), and Data Sovereignty.
+- 🎓 **Academic Background**: 
+  - Master of Engineering Management @ **Tsinghua University** (In progress)
+  - Master of History @ **Harvard Extension School** (Focus: Global Power & History)
+  - Law @ **RUC** | Economics @ **PKU** | Arts Management @ **Bocconi**
+
+---
+
+### 🛠 Tech & Interests
+- ⛓ **Web3 Architecture**: Diving deep into [Solidity/Rust/Cairo] in the current learning group.
+- 🤖 **AI & Health**: Leveraging LLMs to decode ancient medicinal wisdom.
+- ⚖️ **Legal & Governance**: Exploring the intersection of International Law and decentralized protocols.
+
+### 📚 Beyond the Code
+- **Currently Reading**: *And Quiet Flows the Don* (Exploring the epics of human history).
+- **Passions**: Sailing, Skiing, and the tranquil strategy of Golf.
+
+---
+
+### 📫 Connect with me
+- [LinkedIn](Your-Link) | [Twitter/X](Your-Link)
+- 💬 Ask me about: **TCM Modernization, Belt & Road Tech, or the History of Empires.**
+
+## Notes
+
+<!-- Content_START -->
+
+
+<!-- Content_END -->
