@@ -967,7 +967,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [NinaChow09](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/NinaChow09.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Frankentucky](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Frankentucky.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [bobi-caishenye](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/bobi-caishenye.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [xingyan33](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/xingyan33.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
