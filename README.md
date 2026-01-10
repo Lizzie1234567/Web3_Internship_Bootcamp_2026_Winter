@@ -1032,7 +1032,10 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [cecilia721](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/cecilia721.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [ytttkxo](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/ytttkxo.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [tengjskk-spec](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/tengjskk-spec.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [swaninvestor2005-hash](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/swaninvestor2005-hash.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [hello2sherlei](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/hello2sherlei.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
