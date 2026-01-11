@@ -1159,7 +1159,10 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [nekoyushi0405](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/nekoyushi0405.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [marsshai](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/marsshai.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [harmonie15](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/harmonie15.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [ChaimZha](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/ChaimZha.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [jasonCodeSpace](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/jasonCodeSpace.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
