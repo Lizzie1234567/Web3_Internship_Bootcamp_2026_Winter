@@ -10,7 +10,8 @@ timezone: UTC+8
 
 ## Self-introduction
 
-Web3 实习计划 2025 冬季实习生
+base 厦门  俩年C++/C嵌入式工程师，INTJ,对web3/交易 感兴趣，希望转行到web3行业.
+方向是defi＋后端，已经学完了go基础，最近边上班边学习solidity.
 
 ## Notes
 
