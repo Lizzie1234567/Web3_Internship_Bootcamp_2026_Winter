@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-参加过黑客松，做过合约开发
+get hands dirty
 
 ## Notes
 
