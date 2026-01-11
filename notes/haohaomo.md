@@ -1,5 +1,5 @@
 ---
-timezone: UTC+8
+timezone: UTC+3
 ---
 
 # haohaomo
@@ -11,6 +11,7 @@ timezone: UTC+8
 ## Self-introduction
 
 Web3 实习计划 2025 冬季实习生
+掌握中英俄三语，工科+经济学，传统行业转Web3，Staking技术团队中担任生态增长专员，在CEX担任过BD、渠道运营等，正在积极学习下探索更多岗位，All in Web3
 
 ## Notes
 
