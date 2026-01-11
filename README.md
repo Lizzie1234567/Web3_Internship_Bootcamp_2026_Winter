@@ -1226,7 +1226,10 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [himawari-7777](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/himawari-7777.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yana4h568](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yana4h568.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yunru-volknet](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yunru-volknet.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [joysguo](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/joysguo.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [yumyum-05](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yumyum-05.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
