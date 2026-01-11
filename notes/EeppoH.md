@@ -1,5 +1,5 @@
 ---
-timezone: UTC+8
+timezone: AEDT(UTC+11)
 ---
 
 # EeppoH
