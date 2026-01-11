@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-Web3 实习计划 2025 冬季实习生 | Fin+Fintech 大二学生 @UNSW | Base 深圳/悉尼
+Web3 实习计划 2026 冬季实习生 | Fin+Fintech 大二学生 @UNSW | Base 深圳/悉尼
 
 ## Notes
 
