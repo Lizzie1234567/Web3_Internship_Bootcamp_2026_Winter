@@ -1040,7 +1040,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [PNGL9527](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/PNGL9527.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [JhiNResH](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/JhiNResH.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [niaanie](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/niaanie.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [yun1eo1n](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yun1eo1n.md) | | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
