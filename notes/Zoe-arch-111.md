@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-希望能系统地学习 Web3 和区块链相关知识。
+Web3 实习计划 2025 冬季实习生
 
 ## Notes
 
