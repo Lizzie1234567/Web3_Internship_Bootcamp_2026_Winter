@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-港城中文硕，国企实习中，remote项目运营，日常弹吉他、吹口琴
+港城中文硕，一份国企实习，一份remote项目运营，日常弹吉他、吹口琴
 
 ## Notes
 
