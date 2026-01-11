@@ -15,6 +15,8 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-01-12
+<!-- DAILY_CHECKIN_2026-01-12_START -->
+1月11号主持人主要介绍了学习面板，大概了解一下，另外各个学员的自我介绍，都是牛人，我觉得学习氛围应该会非常好，希望在接下来的学习日子里能有所收获！all in web3
+<!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
