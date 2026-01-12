@@ -1324,7 +1324,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [heyuershi1129-cyber](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/heyuershi1129-cyber.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [chjgfg](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/chjgfg.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Yyy012](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Yyy012.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [rivalprosper027-boop](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/rivalprosper027-boop.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
