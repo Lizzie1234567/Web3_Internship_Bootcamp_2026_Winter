@@ -15,6 +15,8 @@ timezone: UTC+5
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-01-12
+<!-- DAILY_CHECKIN_2026-01-12_START -->
+二刷实习计划，打个卡庆祝一下🎉
+<!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
