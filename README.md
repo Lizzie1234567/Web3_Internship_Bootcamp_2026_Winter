@@ -1343,7 +1343,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [wrp111](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/wrp111.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [wenjiang0518-glitch](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/wenjiang0518-glitch.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yueshang-1999](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yueshang-1999.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [joyymy](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/joyymy.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
