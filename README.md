@@ -409,7 +409,7 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [tianlrz](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/tianlrz.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [kvxunz](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/kvxunz.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [iii765](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/iii765.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [marcosoccer211](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/marcosoccer211.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [marcosoccer211](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/marcosoccer211.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [mon365961933-rgb](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/mon365961933-rgb.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [xuan100620](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/xuan100620.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Juicewithice](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Juicewithice.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1315,6 +1315,7 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [Mushroomvw](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Mushroomvw.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Jasmine-mh](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Jasmine-mh.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
