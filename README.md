@@ -607,7 +607,7 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [vincentxthen](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/vincentxthen.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [lindi312](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/lindi312.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [fenixIves](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/fenixIves.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [yiming123620](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yiming123620.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [yiming123620](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yiming123620.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [a2572779018-dev](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/a2572779018-dev.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [sanfangyushanjiao](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/sanfangyushanjiao.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [11-Yann-11](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/11-Yann-11.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1338,6 +1338,7 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [EddieLuo322](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/EddieLuo322.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [sunchaoyu00-byte](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/sunchaoyu00-byte.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
