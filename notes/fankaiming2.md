@@ -15,6 +15,8 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-01-12
+<!-- DAILY_CHECKIN_2026-01-12_START -->
+第一天，Emily老师的分享课堂
+<!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
