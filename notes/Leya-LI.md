@@ -33,7 +33,7 @@ timezone: UTC+8
     
     -   **Trustless Escrow:** Smart contracts allow parties (Alice & Bob) to trade without trusting each other.
         
-    -   **Incentives:** Essential for decentralized systems (e.g., paying users to trigger "cron jobs").
+    -   **Incentives:** Essential for decentralized systems (e.g., paying users to trigger “cron jobs”).
         
     -   **Unstoppable Code:** Once deployed, smart contracts cannot be stopped or censored.
         
