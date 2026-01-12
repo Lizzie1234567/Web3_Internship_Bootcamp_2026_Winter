@@ -23,6 +23,6 @@ timezone: UTC+8
 
 ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/lejm909/images/2026-01-12-1768199794380-image.png)
 
-![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/lejm909/images/2026-01-12-1768200917892-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/lejm909/images/2026-01-12-1768200946372-image.png)
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/lejm909/images/2026-01-12-1768200917892-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/lejm909/images/2026-01-12-1768200946372-image.png)![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/lejm909/images/2026-01-12-1768201501459-image.png)
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
