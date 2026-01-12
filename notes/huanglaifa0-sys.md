@@ -17,6 +17,8 @@ Web3 实习计划 2025 冬季实习生
 <!-- Content_START -->
 # 2026-01-12
 <!-- DAILY_CHECKIN_2026-01-12_START -->
+笔记
+
 web’实习手册学习笔记：
 
 一、区块链定义
@@ -33,7 +35,26 @@ web’实习手册学习笔记：
 
 数字鸿沟、钓鱼攻击
 
-我目前还没有一个固定的信息源能够获得这方面的信息。比如助记词的设计方式，理论上来说助记词的设计好像是2的256次方，理论上是无法被破解的，但是如果设计比较简单，可能破解的概率就是在2的32次方内进行，但是我不理解为什么助记词的设计会有这样的区别，如何能够让自己助记词更难被破解。这样的类似的信息很重要但我完全不知道。钓鱼攻击好可怕。一直做一个怀疑主义者也挺累的，有什么懒惰但是安全的办法么。
+我目前还没有一个固定的信息源能够获得这方面的信息。比如助记词的设计方式，理论上来说助记词的设计好像是2的256次方，理论上是无法被破解的，但是如果设计比较简单，可能破解的概率就是在2的32次方内进行，但是我不理解为什么助记词的设计会有这样的区别，如何能够让自己助记词更难被破解。这样的类似的信息很重要但我完全不知道。钓鱼攻击好可怕。
+
+# [**扩展阅读**](https://web3intern.xyz/zh/security/#%E6%89%A9%E5%B1%95%E9%98%85%E8%AF%BB)
+
+1.  区块链安全红手册（项目方）：[\*\*](https://www.slowmist.com/redhandbook/)[https://www.slowmist.com/redhandbook/\*\*](https://www.slowmist.com/redhandbook/**)
+    
+2.  区块链黑暗森林自救手册：[\*\*](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md)[https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README\_CN.md\*\*](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md**)
+    
+3.  [Revoke.cash](http://Revoke.cash) 授权管理：[\*\*](https://revoke.cash/)[https://revoke.cash/\*\*](https://revoke.cash/**)
+    
+4.  Scam Sniffer 钓鱼检测：[\*\*](https://www.scamsniffer.io/)[https://www.scamsniffer.io/\*\*](https://www.scamsniffer.io/**)
+    
+5.  1Password 密码管理器：[\*\*](https://1password.com/)[https://1password.com/\*\*](https://1password.com/**)
+    
+6.  Bitwarden 密码管理器：[\*\*](https://bitwarden.com/)[https://bitwarden.com/\*\*](https://bitwarden.com/**)
+    
+7.  SlowMist Hacked 区块链被黑档案库，大量的案例索引：[\*\*](https://hacked.slowmist.io/)[https://hacked.slowmist.io/\*\*](https://hacked.slowmist.io/**)
+    
+8.  反钓鱼攻防学习平台：[\*\*](https://unphishable.io/)[https://unphishable.io/\*\*](https://unphishable.io/**)
+    
 
 通常我们会安装一些浏览器扩展或者插件来增强浏览体验。实际上浏览器插件具备的权限比较高，可以修改网页代码替换、篡改正常的合约，从而实现钓鱼攻击。
 
@@ -45,6 +66,63 @@ web’实习手册学习笔记：
 分散资产、硬件钱包、冷钱包、资金管理
 
 推荐 [区块链黑暗森林自救手册](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)、[Web3 生存指南之防骗反诈安全手册V1.0](https://e7qjl676i8.feishu.cn/docs/doccn2rvEMHefBYKvyTVRGwe7Pf#)。
+
+### [**3\. 防护清单（学生版）**](https://web3intern.xyz/zh/security/#_3-%E9%98%B2%E6%8A%A4%E6%B8%85%E5%8D%95-%E5%AD%A6%E7%94%9F%E7%89%88)
+
+1.  **面试/实习相关**
+    
+    -   只用官方 Zoom/Teams/腾讯会议等公开工具，拒绝安装任何“专用面试软件”
+        
+    -   核实面试邀请邮箱、域名、联系人，多渠道确认
+        
+    -   遇到“提前安装软件”“下载资料包”等要求，务必警惕，先查官网/Google/知乎/Reddit 等是否有安全警告
+        
+2.  **奖学金/空投/福利活动**
+    
+    -   任何要求“连接钱包”“签名验证”“输入助记词/私钥”的网页，99% 是骗局
+        
+    -   空投、福利只用专门测试钱包，主钱包冷存储，绝不轻易暴露
+        
+    -   收到“缴费”“奖学金调整”类消息时，先拨打官网热线复核；校园通知留意域名是否官方主域。
+        
+3.  **社交平台/群聊**
+    
+    -   不轻信群内“官方人员”“管理员”“学长学姐”的私聊和链接
+        
+    -   遇到“帮忙测试”“转发链接”“紧急转账”等请求，务必多方核实
+        
+4.  **软件/插件安装**
+    
+    -   所有软件、插件只从官网、官方应用商店下载
+        
+    -   安装前先查口碑、用户数、是否有安全警告
+        
+    -   浏览器插件控制在 3 个以内，且只用官方钱包、密码管理器、广告屏蔽器
+        
+    -   面试／竞赛前索要安装包时，要求公开 MD5 与官网对比；核查数字签名颁发者和时间戳。
+        
+    -   开启系统防火墙、浏览器插件权限管理；对摄像头与麦克风按需授权。
+        
+5.  **账号与密码安全**
+    
+    -   重要账户启用 2FA（短信易被劫持，优选谷歌验证或硬件密钥）；不要在同一浏览器里保存助记词与日常 Cookie。
+        
+    -   使用密码管理器（如 1Password、Bitwarden），每个平台设置独立强密码
+        
+    -   邮箱、手机号安全重于一切，定期更换密码，防止被劫持
+        
+6.  **钱包与转账**
+    
+    -   转账前务必核对地址前 6 位和后 4 位，防止剪贴板被劫持
+        
+    -   助记词/私钥只离线保存，绝不截图、上传网盘或发给任何人
+        
+    -   定期检查钱包授权，及时取消不必要的授权（可用 [Revoke.cash](http://Revoke.cash)、Etherscan 等工具）
+        
+
+**重要**
+
+遇到疑似攻击第一时间断网、截屏、拍照、记录时间点并寻求校内信息中心或专业社群帮助。
 
 三、公链、联盟链和私链
 
@@ -75,6 +153,12 @@ web3.0和web3这种区别的核心是是否有智能合约吗？智能合约确�
 -   [**以太坊密码朋克宣言**](https://hackmd.io/@pcaversaccio/the-ethereum-cypherpunk-manifesto)：深入了解以太坊的文化内核和价值观体系
     
 
-六
+六、Dao治理
+
+等待研究
+
+七、[**全球监管背景与趋势**](https://web3intern.xyz/zh/security/#_2-%E5%85%A8%E7%90%83%E7%9B%91%E7%AE%A1%E8%83%8C%E6%99%AF%E4%B8%8E%E8%B6%8B%E5%8A%BF)
+
+合规条例、各地的、等待研究
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
