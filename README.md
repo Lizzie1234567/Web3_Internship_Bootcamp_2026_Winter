@@ -1258,7 +1258,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [dundunishungry-eng](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/dundunishungry-eng.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [VictorParsonsL](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/VictorParsonsL.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [cmkisnn](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/cmkisnn.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [ffyc213-tech](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/ffyc213-tech.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
