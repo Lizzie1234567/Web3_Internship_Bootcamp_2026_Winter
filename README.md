@@ -474,7 +474,7 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [BareerahBenjamin](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/BareerahBenjamin.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [nymona](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/nymona.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [xxxmingyue](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/xxxmingyue.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [DrakenZeng](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/DrakenZeng.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [DrakenZeng](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/DrakenZeng.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Twooweeks](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Twooweeks.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [merlin-ecde](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/merlin-ecde.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yanzhuchen96-creator](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yanzhuchen96-creator.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1295,7 +1295,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [chiyi5](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/chiyi5.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [weng2186505985-eng](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/weng2186505985-eng.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [shun12306](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/shun12306.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [Arvo-in-coding](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Arvo-in-coding.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
