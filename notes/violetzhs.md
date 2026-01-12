@@ -19,6 +19,65 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-01-12
+<!-- DAILY_CHECKIN_2026-01-12_START -->
+# 开营仪式
 
+(补)
 
+-   方向：运营
+    
+    -   系统培养行业判断力、执行力、内容表达力
+        
+-   时间线
+    
+    -   1.12 - 1.18 基础认知与技能学习
+        
+    -   1.19 - 1.25 深度学习与技能进阶
+        
+    -   1.26 - 2.01 休闲黑客松
+        
+    -   2.02 - 2.08 就业指导
+        
+
+# Day #1
+
+**Web3 行业全局介绍 & 岗位概览**
+
+-   行业情况
+    
+    -   从大基建到合规化
+        
+        ![b70bf255a57375272c087e4a26c40f07.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/violetzhs/images/2026-01-12-1768219659676-b70bf255a57375272c087e4a26c40f07.png)
+    -   2026年市场规模约 69.4 亿美元，cagr 49.8%。
+        
+    -   全球月活开发者 2.5-3 万，连续两年基本持平。
+        
+    -   重点增长区域：北美、中东、香港新加坡、拉美
+        
+    -   行业重心转移：从单纯的 defi 投机转向 rwa、
+        
+    -   蓝海岗位：合规、research analyst
+        
+    -   隐形门槛： ai工具使用能力、链上交互记录
+        
+    -   核心渠道：
+        
+        ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/violetzhs/images/2026-01-12-1768220351610-image.png)
+-   职业人才画像
+    
+-   职位画像
+    
+    ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/violetzhs/images/2026-01-12-1768220494900-image.png)
+    
+-   入场方式
+    
+    ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/violetzhs/images/2026-01-12-1768220908324-image.png)
+-   能力要求
+    
+    ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/violetzhs/images/2026-01-12-1768221105277-image.png)
+-   求职秘籍
+    
+    ![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/violetzhs/images/2026-01-12-1768221375283-image.png)
+<!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
