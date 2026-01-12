@@ -10,7 +10,7 @@ timezone: UTC+8
 
 ## Self-introduction
 
-Web3 实习计划 2025 冬季实习生
+Cornell Alum. Synergizing Law, Finance, and Web3 Tech. Focused on RWA Compliance & Architecture.
 
 ## Notes
 
