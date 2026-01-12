@@ -27,12 +27,15 @@ timezone: UTC+8
     
     1.  Ethereum 官网 [Overview](https://ethereum.org/learn/) 基础内容学习
         
-    2.  [**Day 1: A Developer's Guide to Building on Ethereum**](https://www.youtube.com/watch?v=zuJ-elbo88E&list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69&index=1) - Intro
+    2.  [**Day 1: A Developer’s Guide to Building on Ethereum**](https://www.youtube.com/watch?v=zuJ-elbo88E&list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69&index=1) - Intro
         
     3.  [**Day 2: Becoming a Power User - Wallets, Mnemonics, Keypairs**](https://www.youtube.com/watch?v=_GjPeRLCREA&list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69&index=2)
         
 3.  工具安装
     
     1.  工具安装指南：[https://web3intern.xyz/zh/remote-work-guide/](https://web3intern.xyz/zh/remote-work-guide/)
+        
+
+4.分享会：行业介绍&全局概览
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
