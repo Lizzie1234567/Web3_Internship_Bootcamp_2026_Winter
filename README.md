@@ -1340,7 +1340,9 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [chstor](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/chstor.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [18520641236cyrus-web](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/18520641236cyrus-web.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [shenbo1264](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/shenbo1264.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [wrp111](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/wrp111.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
