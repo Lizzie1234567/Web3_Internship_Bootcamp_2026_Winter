@@ -89,7 +89,7 @@ Day 1: A Developer’s Guide to Building on Ethereum - Intro
 
 使用这个网络进行交易、转账、铸造 NFT 等等，均需要支付代币。如果没有代币又想使用这个区块链网络服务，则需要进行代币之间交换或者法币交换。
 
-# [**Day 1: A Developer's Guide to Building on Ethereum**](https://www.youtube.com/watch?v=zuJ-elbo88E&list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69&index=1) - Intro
+# [**Day 1: A Developer’s Guide to Building on Ethereum**](https://www.youtube.com/watch?v=zuJ-elbo88E&list=PLJz1HruEnenAf80uOfDwBPqaliJkjKg69&index=1) - Intro
 
 托管和信任，“信任最小化环境”，最好的解释是托管——中间商，中间托管机制即信任层——智能合约，代码本身就是一种法律，信任代码即可，激励机制，分布式网络中的所有节点都包含智能合约
 
