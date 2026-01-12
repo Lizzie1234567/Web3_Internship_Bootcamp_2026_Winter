@@ -15,6 +15,10 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-01-12
+<!-- DAILY_CHECKIN_2026-01-12_START -->
+1.查看昨天晚上的入营会议
 
-
+![图像.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/jiangxiyue19/images/2026-01-12-1768207390949-__.png)
+<!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
