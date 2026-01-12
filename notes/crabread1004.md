@@ -33,14 +33,16 @@ timezone: UTC+8
         
 3.  工具安装
     
-    1.  工具安装指南：[https://web3intern.xyz/zh/remote-work-guide/](https://web3intern.xyz/zh/remote-work-guide/)
+    1.  剩余待办：tg注册
         
+
+**4.分享会：行业介绍&全局概览**
+
+含完整图片链接：[https://www.notion.so/2e6408fac1a680ddb6d8f898643c25da?source=copy\_link](https://www.notion.so/2e6408fac1a680ddb6d8f898643c25da?source=copy_link)
 
 1.历史回溯：（09-14）BTC1.0——（15-20）以太坊上主网，币安逐步合规——（20-24）概念爆发——
 
 2.就业情况：
-
-![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/crabread1004/images/2026-01-12-1768224678196-image.png)
 
 -   重点增长区域：北美——技术，中东（迪拜）/香港/东南亚（新加坡）——交易所
     
