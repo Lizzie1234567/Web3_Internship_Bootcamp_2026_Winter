@@ -15,6 +15,8 @@ I am currently a graduate student in financial technology at the Chinese Univers
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-01-12
+<!-- DAILY_CHECKIN_2026-01-12_START -->
+![IMG_8622.jpeg](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/wux65089-glitch/images/2026-01-12-1768219205365-IMG_8622.jpeg)
+<!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
