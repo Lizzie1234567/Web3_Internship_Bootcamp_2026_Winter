@@ -42,6 +42,35 @@ Web3 实习计划 2025 冬季实习生
 -   全网节点共同维护 → **公开透明、匿名、抗单点故障**。
     
 
-![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/pillowtalk-Qy/images/2026-01-12-1768227213031-image.png)![分布式网络记账模式](https://web3intern.xyz/assets/decentralize-CO_v5XlA.jpg)
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/pillowtalk-Qy/images/2026-01-12-1768227213031-image.png)
+
+## **2\. 什么是BTC？**
+
+比特币（Bitcoin，简称 BTC）是一种去中心化的数字货币，由中本聪（Satoshi Nakamoto）在2008年提出，并于2009年正式上线运行。其核心特点包括：
+
+-   **去中心化**：不依赖任何中央机构（如银行或政府）发行或管理，而是通过分布式网络和共识机制运行。
+    
+-   **基于区块链技术**：所有交易记录公开透明地存储在一个称为“区块链”的公共账本上，不可篡改。
+    
+-   **有限供应**：总量上限为2100万枚，具有抗通胀属性。
+    
+-   **匿名性与安全性**：用户通过加密密钥控制资产，交易无需透露真实身份，同时依靠密码学保障安全。
+    
+-   **全球流通**：可在互联网上点对点转账，不受地域限制。
+    
+
+## **3\. 区块链的核心组成部分**
+
+-   **用户发起交易**：用户通过钱包应用发起转账、智能合约调用等操作
+    
+-   **交易广播**：交易信息被广播到整个网络中的各个节点
+    
+-   **节点验证**：网络中的矿工节点验证交易的合法性（余额是否足够、签名是否正确等）
+    
+-   **打包成块**：通过共识机制（如工作量证明），矿工将验证过的交易打包成新的区块
+    
+-   **链接上链**：新区块被添加到区块链上，更新全网的账本状态
+    
+-   **奖励发放**：成功打包区块的矿工获得代币奖励和交易手续费
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
