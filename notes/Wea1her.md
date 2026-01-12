@@ -33,12 +33,12 @@ INTJ
 4.  参加晚上的Web行业介绍&岗位预览
     
 
-# 今日结果：
+# 今日学习成果：
 
 开营仪式笔记：[https://docs.0xweather.com/web3-internship-bootcamp-2026-winter/01/](https://docs.0xweather.com/web3-internship-bootcamp-2026-winter/01/)
 
-中文周会笔记：
+中文周会笔记：[https://docs.0xweather.com/web3-internship-bootcamp-2026-winter/week-meeting01/](https://docs.0xweather.com/web3-internship-bootcamp-2026-winter/week-meeting01/)
 
-![2-4.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/Wea1her/images/2026-01-12-1768206365114-2-4.png)
+Web3 行业全局与岗位概览笔记：[https://docs.0xweather.com/web3-internship-bootcamp-2026-winter/day1-02/](https://docs.0xweather.com/web3-internship-bootcamp-2026-winter/day1-02/)
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
