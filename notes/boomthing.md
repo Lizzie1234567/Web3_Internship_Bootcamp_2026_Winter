@@ -130,5 +130,27 @@ nouns dao（藏品即决策权） lxdao（web3公共物品的建设者） consti
 ### 交叉新领域：
 
 Defi+NFT：原本只能是币种借贷，现在NFT也可以质押借贷
+
+DAO+MEME：meme币持有者可以参与社区治理，nouns dao每天拍卖一个新的moun nft，收益进入DAO金库
+
+### AI+DeFi：
+
+智能投资策略 风险管理和预测 用户体验优化
+
+### WEB3+乡建：南塘DAO的探索
+
+## web3的工作方式
+
+准备这几天学习一下notion，calendly，figma，github等等
+
+提到了远程会议的注意事项，以及职场软技能，效率翻倍工具，web3常用工具等等，之后可以看一看，现在感觉没什么必要
+
+行业黑话记了不少。
+
+# 线上分享行业
+
+![dc09fece825cf23ff88e3aac91adb231.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/boomthing/images/2026-01-12-1768223079939-dc09fece825cf23ff88e3aac91adb231.png)![6df24ca4c50eb18d662e3c45c4e831a5.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/boomthing/images/2026-01-12-1768223093191-6df24ca4c50eb18d662e3c45c4e831a5.png)![48bbfbfb99d38afc7bf7be48b9c913ef.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/boomthing/images/2026-01-12-1768223100022-48bbfbfb99d38afc7bf7be48b9c913ef.png)
+
+初级人才过剩，高级人才短缺 平均录取比：450：1 ，这个还是比较惊讶的。
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
