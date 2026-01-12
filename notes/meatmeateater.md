@@ -15,6 +15,8 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
-
-
+# 2026-01-12
+<!-- DAILY_CHECKIN_2026-01-12_START -->
+今天的週會筆記與總結:[https://hackmd.io/@aFCN5W6RRziFmAoTz\_00kw/SknZDDMS-e](https://hackmd.io/@aFCN5W6RRziFmAoTz_00kw/SknZDDMS-e)
+<!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
