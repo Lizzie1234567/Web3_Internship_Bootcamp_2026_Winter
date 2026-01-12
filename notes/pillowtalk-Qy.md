@@ -30,5 +30,18 @@ Web3 实习计划 2025 冬季实习生
 通过AdsPower配置了个新环境，重新注册了个新钱包（专门在实习计划使用）
 
 ![屏幕截图 2026-01-12 215706.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/pillowtalk-Qy/images/2026-01-12-1768226245768-_____2026-01-12_215706.png)
+
+# 学习Web3 实习手册[「入门导读」](https://web3intern.xyz/zh/blockchain-basic/)部分
+
+## **1\. 什么是区块链？**
+
+-   去中心化的分布式账本，由按时间链接的区块组成。
+    
+-   每个区块含交易 + 前一区块哈希 → **不可篡改**。
+    
+-   全网节点共同维护 → **公开透明、匿名、抗单点故障**。
+    
+
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/pillowtalk-Qy/images/2026-01-12-1768227213031-image.png)![分布式网络记账模式](https://web3intern.xyz/assets/decentralize-CO_v5XlA.jpg)
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
