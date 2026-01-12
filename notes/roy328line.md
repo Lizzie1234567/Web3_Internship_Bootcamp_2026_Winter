@@ -19,8 +19,8 @@ Web3 实习计划 2025 冬季实习生
 <!-- DAILY_CHECKIN_2026-01-12_START -->
 Web3 实习笔记 2026/01/12
 
-来源**  
-Web3intern 实习手册：**[**区块链基础概念**](https://web3intern.xyz/zh/blockchain-basic/) [**以太坊概览**](https://web3intern.xyz/zh/overview-of-ethereum/)
+来源\*\*  
+Web3intern 实习手册：\*\*[**区块链基础概念**](https://web3intern.xyz/zh/blockchain-basic/) [**以太坊概览**](https://web3intern.xyz/zh/overview-of-ethereum/)
 
 TL;DR  
 区块链是分布式账本，数据以区块形式串成链。  
@@ -151,6 +151,7 @@ Web3：用户通过私钥控制钱包地址与资产操作权；平台与治理�
     
 
 | 痛点 | 过去 L2 把数据提交到 L1 成本高 |
+| --- | --- |
 | 改动 | 引入 Blob 交易类型 |
 | 效果 | L2 费用下降约 70%–90% |
 
@@ -160,6 +161,7 @@ Web3：用户通过私钥控制钱包地址与资产操作权；平台与治理�
     
 
 | 批量处理 | 在链下把大量交易先执行并生成状态变更 |
+| --- | --- |
 | 零知识证明 | 对这批交易生成一个简洁的正确性证明 |
 | 主网验证 | 以太坊只验证证明即可，无需逐笔验证 |
 
