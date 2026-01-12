@@ -33,6 +33,8 @@ INTJ
 4.  参加晚上的Web行业介绍&岗位预览
     
 
+由于web3基础已经自学，故不再更新基础知识。只跟进直播和即将要学习的新知识。
+
 # 今日学习成果：
 
 开营仪式笔记：[https://docs.0xweather.com/web3-internship-bootcamp-2026-winter/01/](https://docs.0xweather.com/web3-internship-bootcamp-2026-winter/01/)
