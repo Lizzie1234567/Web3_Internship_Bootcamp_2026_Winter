@@ -43,6 +43,10 @@ Web3 实习计划 2025 冬季实习生
 2.  [https://sepolia-faucet.pk910.de/](https://sepolia-faucet.pk910.de/) （需要自己挖矿）
     
 
+### web3行业词汇
+
+[https://unstoppabledomains.com/blog/the-web3-glossary](https://unstoppabledomains.com/blog/the-web3-glossary)
+
 ### 零基础学习solidity的网址
 
 1.  [https://www.wtf.academy/](https://www.wtf.academy/)
