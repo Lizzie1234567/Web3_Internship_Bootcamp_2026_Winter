@@ -57,7 +57,7 @@ Web3 实习计划 2025 冬季实习生
         
         -   案例：把手中的 ETH 存入 Aave 的智能合约作为抵押，合约会自动计算你能借多少稳定币，并立即放款。如果不还钱，合约会自动扣除抵押品。全程不需要人工审核，不看你的征信报告。
             
-2.  **PoW—PoS: The Merge (油车换成电动车）**
+2.  **Proof of Work—Proof of Stake: The Merge (油车换成电动车）**
     
 
 -   PoW(工作量证明):比拼谁家“**锄头多、体力好**”的体力劳动。攻击者需要控制全球 51% 的算力（极难）。
@@ -97,5 +97,31 @@ Web3 实习计划 2025 冬季实习生
     -   如果设置 1000 单位 ×10Gwei，实际用了 800 单位，退还 200 单位的费用
         
 -   **EVM = 全球共享计算机**：所有节点同时运行相同的程序，确保结果一致且可信
+    
+
+**DeFi Intro**
+
+-   智能合约取代了交易中的金融机构
+    
+-   **Flash loans:** It works on the basis that the loan is taken out and paid back within the same transaction. If it can't be paid back, the transaction reverts as if nothing ever happened.
+    
+
+**Development's guide to build on Ethereum**
+
+1.  **what is blockchain:** a network, all nodes participate in a work following the same set of rules.
+    
+2.  **how it works: escrow & trust**
+    
+
+**Escrow（第三方托管/托管）** 是一种财务安排，指的是由**中立的第三方**暂时持有资金或资产，直到交易双方满足了合同中约定的特定条件。
+
+你可以把它想象成一个“公平的裁判”或“保险箱”：在买家没有收到货、或者卖家没有收到钱之前，这笔钱由一个双方都信任的第三方管着，谁也跑不了，谁也不能乱动 --- allow people who don't know each other can make transactions or other activities. **The escrow is how the small contract works!!**
+
+-   **This trust layer allow people to coordinate even though they don't trust each other.**
+    
+-   **The code is the law, you only need to trust the code.**
+    
+
+3.  Applications: DeFi / Snapshot / NFT
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
