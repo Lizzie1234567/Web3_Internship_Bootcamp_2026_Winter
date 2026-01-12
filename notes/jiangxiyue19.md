@@ -17,8 +17,8 @@ timezone: UTC+8
 <!-- Content_START -->
 # 2026-01-12
 <!-- DAILY_CHECKIN_2026-01-12_START -->
-3.在bilibili回看开营视频
+4。使用谷歌行程表
 
-![截屏2026-01-12 19.20.22.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/jiangxiyue19/images/2026-01-12-1768216926687-__2026-01-12_19.20.22.png)
+![截屏2026-01-12 19.23.40.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/jiangxiyue19/images/2026-01-12-1768217196060-__2026-01-12_19.23.40.png)
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
