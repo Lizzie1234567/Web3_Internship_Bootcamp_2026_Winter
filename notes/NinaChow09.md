@@ -15,6 +15,14 @@ timezone: UTC+8
 ## Notes
 
 <!-- Content_START -->
+# 2026-01-13
+<!-- DAILY_CHECKIN_2026-01-13_START -->
+看了实习手册入门导读的前脸个单元。由于之前看过北大的区块链公开课，这次的内容基本都了解。以太坊上线时间是不是应该是2015年啊。
 
+参加了co-learning和8点的线上分享。
 
+![image.png](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/NinaChow09/images/2026-01-13-1768274806628-image.png)
+
+求职建议：保持链上活跃度、熟练用ai、英语要好 前期找不到实习就在社群多发言吧。
+<!-- DAILY_CHECKIN_2026-01-13_END -->
 <!-- Content_END -->
