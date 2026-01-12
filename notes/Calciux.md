@@ -67,5 +67,16 @@ DePIN资源上链
 Rust\\合规\\Research analyst AI usage & On-chain Reputation
 
 DAO/开源社区/投研社区
+
+**Solidity：**  
+Web3 最广泛和通用的开发语言，易上手，建议新手要学习一下，理解智能合约的编程思维逻辑。
+
+**趋势：**  
+Rust 的应用越来越多，很多链和自创语言基于 Rust 开发。
+
+**学习和关注 Web3 新语言：**  
+Move、Cairo、Func 等。
+
+**合约安全意识；系统设计；对 DeFi / L2 的理解**
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
