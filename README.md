@@ -1221,7 +1221,7 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [HZY-PHD](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/HZY-PHD.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [zhonglintang812-cloud](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/zhonglintang812-cloud.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [lipinyy](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/lipinyy.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
-| [yeeva0102](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yeeva0102.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
+| [yeeva0102](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yeeva0102.md) | ✅ | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [hslslsl](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/hslslsl.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [himawari-7777](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/himawari-7777.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [yana4h568](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yana4h568.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
@@ -1354,6 +1354,7 @@ Web3 实习计划免责声明及入营协议: [https://ethpanda.notion.site/Web3
 | [yanghsunhao473-prog](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/yanghsunhao473-prog.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 | [Oronm-boop](https://github.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/blob/main/notes/Oronm-boop.md) |   | | | | | | | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
