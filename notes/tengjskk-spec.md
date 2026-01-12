@@ -24,5 +24,10 @@ timezone: UTC+8
 -   **阅读Web3 实习手册**[**「入门导读」**](https://web3intern.xyz/zh/blockchain-basic/)**部分，根据自己的理解，整理再输出**
     
 -   **发第一条小红书，分享记录web3学习过程（账号名：treetree🎄）**
+    
+
+# **情况进度：**
+
+![IMG_1862.jpg](https://raw.githubusercontent.com/IntensiveCoLearning/Web3_Internship_Bootcamp_2026_Winter/main/assets/tengjskk-spec/images/2026-01-12-1768223759242-IMG_1862.jpg)
 <!-- DAILY_CHECKIN_2026-01-12_END -->
 <!-- Content_END -->
